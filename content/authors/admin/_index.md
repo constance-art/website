@@ -65,9 +65,8 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Constance and I'm an artist based in Delft, The Netherlands. I am specialized in realistic pet portraits.
+Hi! My name is Constance and I'm an artist based in Delft, The Netherlands. I am specialized in realistic pet portraits.{style="text-align: center;"}
 
-Being able to combine my love for animals and my passion for art is a special gift I like to share with you. I feel honored to draw your beloved animal. 
+Being able to combine my love for animals and my passion for art is a special gift I like to share with you. I feel honored to draw your beloved animal.{style="text-align: center;"}
 
-If you are interested in a personal commission please get in contact and we can discuss the details. 
-{style="text-align: center;"}
+If you are interested in a personal commission please get in contact and we can discuss the details.{style="text-align: center;"}
