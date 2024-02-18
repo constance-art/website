@@ -34,8 +34,8 @@ sections:
         street:
         city: Delft
         region:
-        postcode: 2623LN
-        country: The Netherlands
+        postcode: The Netherlands
+        country:
         country_code:
       # Automatically link email and phone or display as text?
       autolink: true
