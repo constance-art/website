@@ -46,46 +46,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #SF       institution: Massachusetts Institute of Technology
 #SF       year: 2008
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#SF skills:
-#SF   - name: Technical
-#SF     items:
-#SF       - name: Python
-#SF         description: ''
-#SF         percent: 80
-#SF         icon: python
-#SF         icon_pack: fab
-#SF       - name: Data Science
-#SF         description: ''
-#SF         percent: 100
-#SF         icon: chart-line
-#SF         icon_pack: fas
-#SF       - name: SQL
-#SF         description: ''
-#SF         percent: 40
-#SF         icon: database
-#SF         icon_pack: fas
-#SF   - name: Hobbies
-#SF     color: '#eeac02'
-#SF     color_border: '#f0bf23'
-#SF     items:
-#SF       - name: Hiking
-#SF         description: ''
-#SF         percent: 60
-#SF         icon: person-hiking
-#SF         icon_pack: fas
-#SF       - name: Cats
-#SF         description: ''
-#SF         percent: 100
-#SF         icon: cat
-#SF         icon_pack: fas
-#SF       - name: Photography
-#SF         description: ''
-#SF         percent: 80
-#SF         icon: camera-retro
-#SF         icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
