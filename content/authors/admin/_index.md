@@ -48,43 +48,43 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#SF skills:
+#SF   - name: Technical
+#SF     items:
+#SF       - name: Python
+#SF         description: ''
+#SF         percent: 80
+#SF         icon: python
+#SF         icon_pack: fab
+#SF       - name: Data Science
+#SF         description: ''
+#SF         percent: 100
+#SF         icon: chart-line
+#SF         icon_pack: fas
+#SF       - name: SQL
+#SF         description: ''
+#SF         percent: 40
+#SF         icon: database
+#SF         icon_pack: fas
+#SF   - name: Hobbies
+#SF     color: '#eeac02'
+#SF     color_border: '#f0bf23'
+#SF     items:
+#SF       - name: Hiking
+#SF         description: ''
+#SF         percent: 60
+#SF         icon: person-hiking
+#SF         icon_pack: fas
+#SF       - name: Cats
+#SF         description: ''
+#SF         percent: 100
+#SF         icon: cat
+#SF         icon_pack: fas
+#SF       - name: Photography
+#SF         description: ''
+#SF         percent: 80
+#SF         icon: camera-retro
+#SF         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
