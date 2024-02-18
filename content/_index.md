@@ -17,7 +17,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="drawings" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
 - block: contact
