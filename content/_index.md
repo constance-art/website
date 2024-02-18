@@ -13,6 +13,7 @@ sections:
       username: admin
   - block: markdown
     content:
+      id: gallery
       title: Gallery
       subtitle: ''
       text: |-
