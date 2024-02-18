@@ -17,19 +17,10 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: markdown
-    id: drawings
-    content:
-      title: Drawings
-      subtitle: ''
-      text: |-
         {{< gallery album="drawings" >}}
     design:
       columns: '1'
-- block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
