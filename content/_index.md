@@ -65,7 +65,7 @@ sections:
         city: Delft
         region:
         postcode:
-        country:
+        country: The Netherlands
         country_code:
       # Automatically link email and phone or display as text?
       autolink: true
