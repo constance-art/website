@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Constance Böttcher
+title: Constance Feld
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Constance
-last_name: Böttcher
+last_name: Feld
 
 # Status emoji
 status:
