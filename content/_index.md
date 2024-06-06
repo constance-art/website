@@ -28,7 +28,7 @@ sections:
       text: |-
         Thank your for your interest. I am happy to hear from you!
       # Contact (add or remove contact options as necessary)
-      email: constance1@web.de
+      email: info@constance-art.com
       phone: 
       address:
         street:
