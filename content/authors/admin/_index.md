@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Artist
+role: Pet Portrait Artist
 
 # Organizations/Affiliations to show in About widget
 #SF organizations:
@@ -65,8 +65,10 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Constance and I'm an artist based in Delft, The Netherlands. I am specialized in realistic pet portraits.
+My name is Constance Feld and I am specialized in realistic pet portraits.
 
-Being able to combine my love for animals and my passion for art is a special gift I like to share with you. I feel honored to draw your beloved animal.
+I am using materials of high quality to ensure a realistic artwork which captures the character of your animal the best. A pet portrait is a unique present and brings a beautiful memory.
+
+Being able to combine my love for animals and my passion for art is a special gift I like to share with you.
 
 If you are interested in a personal commission please get in contact and we can discuss the details.
