@@ -5,3 +5,7 @@
 testclass2{
     display: contents;
 }
+
+body {
+    background-color: lightblue;
+  }
