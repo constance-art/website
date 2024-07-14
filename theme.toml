@@ -47,3 +47,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
+
+# Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
+# they have to be referred from static root. Example
+customCSS = ["/css/custom.css"]
