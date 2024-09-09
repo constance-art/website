@@ -70,5 +70,3 @@ My name is Constance Feld and I am specialized in realistic pet portraits.
 I am using materials of high quality to ensure a realistic artwork which captures the character of your animal the best. A pet portrait is a unique present and brings a beautiful memory.
 
 Being able to combine my love for animals and my passion for art is a special gift I like to share with you.
-
-If you are interested in a personal commission please get in contact and we can discuss the details.
