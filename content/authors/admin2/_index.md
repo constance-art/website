@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Constance Feld
+title: Pet Portrait Artist
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Pet Portrait Artist
+role: Constance Feld
 
 # Organizations/Affiliations to show in About widget
 #SF organizations:
