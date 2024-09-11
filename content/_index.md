@@ -42,10 +42,10 @@ sections:
       email: info@constance-art.com
       phone: 
       address:
-        street: "KVK number : 86361279"
+        street:
         city: Delft
-        region: "KVK number: 86361279"
-        postcode: "The Netherlands<br>KVK number: 86361279"
+        region:
+        postcode: "The Netherlands<br><br>KVK number: 86361279"
         country: 
         country_code:
       # Automatically link email and phone or display as text?
