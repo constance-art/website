@@ -45,7 +45,7 @@ sections:
         street: "KVK number : 86361279"
         city: Delft
         region: "KVK number: 86361279"
-        postcode: The Netherlands
+        postcode: "The Netherlands<br>KVK number: 86361279"
         country: 
         country_code:
       # Automatically link email and phone or display as text?
