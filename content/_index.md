@@ -46,8 +46,8 @@ sections:
         city: Delft
         region:
         postcode: The Netherlands
-        country:
-        country_code: KVK number: 86361279
+        country: "KVK number: 86361279"
+        country_code: "KVK number: 86361279"
       # Automatically link email and phone or display as text?
       autolink: true
     design:
