@@ -31,6 +31,15 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: impressions
+    content:
+      title: Impressions
+      subtitle: ''
+      text: |-
+        {{< gallery album="impressions" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
