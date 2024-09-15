@@ -65,6 +65,4 @@ social:
 highlight_name: true
 ---
 
-"I am a chapter in your life, but you are my entire book."
-
--- Pet
+"I am a chapter in your life, but you are my entire book." -- Pet
